@@ -1,0 +1,22 @@
+{
+  "name": "hashthefile",
+  "version": "1.0.0",
+  "description": "Hash But its now easy!",
+  "main": "index.js",
+  "keywords": [
+    "fast",
+    "usage",
+    "easy-to-use",
+    "easy"
+  ],
+  "author": "GHALBEYOU",
+  "license": "ISC",
+  "dependencies": {
+    "crypto-js": "^4.1.1",
+    "fs": "^0.0.1-security"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
