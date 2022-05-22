@@ -1,4 +1,9 @@
 # Hash The File
+![1](https://img.shields.io/npm/l/hashthefile)
+![2](https://img.shields.io/npm/dt/hashthefile)
+![3](https://img.shields.io/npm/v/hashthefile)
+![4](https://img.shields.io/github/followers/Ghalbeyou?style=social)
+
 An Easy Way To Hash Files.
 ## Install
 Install this package with:
