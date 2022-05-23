@@ -9,7 +9,7 @@ An Easy Way To Hash Files.
 Install this package with:
 
 ```bash
-npm i hashfile
+npm i hashthefile
 ```
 
 ## Usage
